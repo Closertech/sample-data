@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Taj",
+    "logoImage": "imageulrl",
+    "bannerImage": "imageurl",
+    "cities": ["Mumbai", "Pune", "Delhi"]
+  }
+]

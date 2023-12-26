@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Romantic Date",
+    "category": "Fine Dine",
+    "branches": [
+      "Dhems Kitchen Pune",
+      "Taj Mahal Palace Mumbai",
+      "Sahara Star Mumbai"
+    ],
+    "noOfOffers": 5,
+    "description": "A romantic date begins with a candlelit dinner at a cozy restaurant, where soft music serenades a couple as they savor exquisite cuisine. Afterward, a moonlit stroll by the waterfront, hand in hand, leads to intimate conversations and stolen kisses. It ends with starry-eyed gazes and a promise of tomorrow's adventures.",
+    "photos": [
+      "https://firebasestorage.googleapis.com/v0/b/bwi-1024.appspot.com/o/vendors%2FphIWZoc2ZjXs9giSX2KD%2Fimages%2FHinjawadi%200.png?alt=media&token=7d0d9218-32d3-49d2-9dfa-1df74cab8edb"
+    ],
+    "videos": [
+      "https://firebasestorage.googleapis.com/v0/b/bwi-1024.appspot.com/o/vendors%2FphIWZoc2ZjXs9giSX2KD%2Fimages%2FHinjawadi%200.png?alt=media&token=7d0d9218-32d3-49d2-9dfa-1df74cab8edb"
+    ]
+  }
+]
